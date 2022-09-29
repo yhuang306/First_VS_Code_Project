@@ -1,0 +1,31 @@
+body {
+    width: 50%;
+    margin: 0 auto;
+    background-color: beige;
+}
+
+li {
+    display: inline-block;
+}
+
+a {
+    text-decoration: none;
+    padding: 50px;
+    font-size: larger;
+    font-weight: bolder;
+    color: black;
+}
+
+nav {
+    text-align: center;
+    border-bottom: 1px black solid;
+}
+
+img {
+    width: 100%;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 5%;
+}
